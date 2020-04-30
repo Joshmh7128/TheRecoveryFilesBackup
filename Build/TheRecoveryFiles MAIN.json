@@ -1,9 +1,9 @@
 {
 "companyName": "Josh Hirshfield",
 "productName": "The Recovery Files",
-"dataUrl": "TheRecoveryFiles.data.unityweb",
-"wasmCodeUrl": "TheRecoveryFiles.wasm.code.unityweb",
-"wasmFrameworkUrl": "TheRecoveryFiles.wasm.framework.unityweb",
+"dataUrl": "TheRecoveryFiles MAIN.data.unityweb",
+"wasmCodeUrl": "TheRecoveryFiles MAIN.wasm.code.unityweb",
+"wasmFrameworkUrl": "TheRecoveryFiles MAIN.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
